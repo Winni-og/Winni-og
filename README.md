@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**Winni-og/Winni-og** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 
+**Winni-og/Winni-og**
 
 
 - 🔭 I’m a DATA ANALYST
@@ -11,5 +11,4 @@
 - 💬 Ask me about data
 - 📫 How to reach me: winsome.og@gmail.com
 - 😄 She loves data 
-- ⚡ Fun fact: I love solving problems. I never knew I would fall in love and have passion for technology
--->
+- ⚡ Fun fact: I love solving problems. I never knew I would fall in love with data and have a passion for anything in tech! 
